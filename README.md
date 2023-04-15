@@ -52,7 +52,7 @@
 <details>
     <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
   
-![Metrics](https://metrics.lecoq.io/MR-Hex-ULTRA-Tech-Ofc?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/MR-Hex-ULTRA-Tech-Ofc)
 
 
 </details>
