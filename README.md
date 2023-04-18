@@ -52,7 +52,7 @@
 <details>
     <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</b></summary><br/>
   
-![Metrics](https://metrics.lecoq.io/MR-Hex-ULTRA-Tech-Ofc)
+![Metrics](https://metrics.lecoq.io/MR-Hex-ULTRA-Tech-Ofc?template=classic&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&config.timezone=Asia%2FColombo)
 
 
 </details>
