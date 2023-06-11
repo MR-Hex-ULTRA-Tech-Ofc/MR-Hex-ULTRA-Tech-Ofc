@@ -1,11 +1,14 @@
+<!-- 😹 Hu Copis Dont Copy Bitch, Go Copy You Mom Bitch -->
 <div align="center">
 
 ## ᴍʀ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ ✘
-# ʜɪ <a href="Hey"><img src="https://raw.githubusercontent.com/MR-Hex-ULTRA-Tech-Ofc/MR-Hex-ULTRA-Tech-Ofc/main/Media/Hi.gif" width="48px"></a> ɪ'ᴍ  ᴍʀ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ&nbsp;
+# Hi <a href="Hey"><img src="https://raw.githubusercontent.com/MR-Hex-ULTRA-Tech-Ofc/MR-Hex-ULTRA-Tech-Ofc/main/Media/Hi.gif" width="48px"></a> I'm  Mr Hex ULTRA Tech&nbsp;
 
 ![My card name](https://cardivo.vercel.app/api?name=Mr-Hex-ULTRA-Tech&description=Hi,%20Welcome%20To%20%F0%9F%92%96%E1%B4%B9%E1%B4%BF-%CA%9C%E1%B4%87x-%E1%B4%9C%CA%9F%E1%B4%9B%CA%80%E1%B4%80-%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C%F0%9F%92%96%20Profile%20%E2%9D%A4%EF%B8%8F&image=https://telegra.ph/file/a914a38a4af5ae176ae16.jpg&backgroundColor=%23ecf0f1&github=Mr-Hex-ULTRA-Tech&twitter=&pattern=leaf&colorPattern=%23eaeaea)
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B00B6&background=&width=435&lines=%E1%B4%8D%CA%80+%CA%9C%E1%B4%87x+%E1%B4%9C%CA%9F%E1%B4%9B%CA%80%E1%B4%80+%E1%B4%9B%E1%B4%87%E1%B4%84%CA%9C)](https://git.io/typing-svg)
+ 
+</p>
 
 ### ᴍʏ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴘʀᴏᴊᴇᴄᴛꜱ
 <p align="left">
@@ -17,11 +20,11 @@
   <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs"></code>
   <code><img width="40px" src="https://img.icons8.com/fluency/48/000000/node-js.png" title="JS"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"></code>
-  <code><img width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"></code>
-  <code><img width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"></code>
+<!---  <code><img width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"></code> --->
+ <!--- <code><img width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"></code> --->
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux"></code>
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/docker.png" title="docker"></code>
-  <code><img width="40px" src="https://img.icons8.com/color/48/000000/kali-linux.png" title="Kali Linux"></code>
+ <!--- <code><img width="40px" src="https://img.icons8.com/color/48/000000/kali-linux.png" title="Kali Linux"></code> --->
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud"></code>
   <code><img width="40px" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg" title="replit"></code>
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Codes"></code>
@@ -29,6 +32,13 @@
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/git.png" title="Bash"></code>
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/heroku.png" title="heroku"></code>
 </p>
+  
+---
+  
+ </p>
+<h2 align="center"> ꜱᴘᴏᴛɪꜰʏ</h2>
+<p align="center">
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 
 ---
 
